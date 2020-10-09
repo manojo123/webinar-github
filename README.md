@@ -56,4 +56,6 @@ push
 ## Links
 https://github.com/manojo123/webinar-github
 https://drive.google.com/file/d/1HiL6SnUc0ocmKsyvoHUCOm9X3uWdLV0o/view?usp=sharing
-https://www.notion.so/Comandos-745d6849ffdb42ce871b6012f2d08384#c434262da17d4c6db255ad74f650c972  --Gracias Andrei
+
+> Gracias Andrei
+https://www.notion.so/Comandos-745d6849ffdb42ce871b6012f2d08384#c434262da17d4c6db255ad74f650c972
